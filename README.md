@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Web Development,with a strong foundation in HTML and CSS. My programing journey began with C++ and I've since fallen in love with Python,exploring its vast possibilities.
   
 - 👀 I'm excited to continue learning and growing in tech community ,with a focus on:
+  
     **Web Development** (*HTML, CSS, JAVASCRIPT*)
     **Python Programing** (*Data Science, Machine Learning, Automation*)
     **Problem-Solving** (*C++, Algorithms, Data Structures*)
