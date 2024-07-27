@@ -4,7 +4,7 @@
   
 - 👀 I'm excited to continue learning and growing in tech community ,with a focus on:
   
-    **Web Development** (*HTML, CSS, JAVASCRIPT*)
+    **Web Development** (*Html, Css, Javascript*)
   
     **Python Programing** (*Data Science, Machine Learning, Automation*)
   
